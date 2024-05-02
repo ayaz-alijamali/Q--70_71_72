@@ -1,0 +1,12 @@
+{
+  "name": "underloops",
+  "version": "1.0.0",
+  "description": "100 days coding challenge Questions ",
+  "main": "U_loops.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT "
+}
